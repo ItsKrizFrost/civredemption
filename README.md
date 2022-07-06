@@ -87,4 +87,4 @@ Join CivRedemption
 | Rock Bass | Fish |
 | Smallmouth Bass | Fish |
 | Salmon Redfish | Fish |
-| Salmon | Sockeye |
+| Salmon Sockeye | Fish |
