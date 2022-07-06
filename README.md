@@ -2,6 +2,10 @@
 Join CivRedemption
 
 # Hunting Information
+Animals In Red Dead Wiki
+https://reddead.fandom.com/wiki/Category:Animals_in_Redemption_2
+
+
 | Animal  | Food |
 | ------------- | ------------- |
 | Rat  | Meat  |
