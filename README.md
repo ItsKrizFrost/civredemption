@@ -8,7 +8,7 @@ Join CivRedemption
 | Raccoon | Pelt  |
 | Duck | Feathers |
 | Deer | Meat |
-| Bear | Bear Heart Bear Claws |
+| Bear | Bear Heart | Bear Claws |
 | Bear | Meat |
 | Big Horn Ram | Meat |
 | Boar | Meat |
