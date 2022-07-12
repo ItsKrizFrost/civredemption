@@ -95,6 +95,6 @@ https://reddead.fandom.com/wiki/Category:Animals_in_Redemption_2
 
 
 
-| Animal  | Food |
+| Gathering  | Entity |
 | ------------- | ------------- |
-| Walk up to cow | ![alt text](https://i.imgur.com/TbIJAkf.png) |
+| Walk up cows you will get a prompt to milk the cow. | ![alt text](https://i.imgur.com/TbIJAkf.png) |
