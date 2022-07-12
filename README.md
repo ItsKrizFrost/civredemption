@@ -92,3 +92,8 @@ https://reddead.fandom.com/wiki/Category:Animals_in_Redemption_2
 | Smallmouth Bass | Fish |
 | Salmon Redfish | Fish |
 | Salmon Sockeye | Fish |
+
+
+
+Gathering Milk
+| Walk up to cow | ![alt text](https://i.imgur.com/TbIJAkf.png) |
