@@ -95,5 +95,6 @@ https://reddead.fandom.com/wiki/Category:Animals_in_Redemption_2
 
 
 
-Gathering Milk
+| Animal  | Food |
+| ------------- | ------------- |
 | Walk up to cow | ![alt text](https://i.imgur.com/TbIJAkf.png) |
